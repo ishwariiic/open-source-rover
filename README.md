@@ -153,6 +153,24 @@ Take a look at these alternative Mars rover replicas:
 * [ESA ExoMy](https://github.com/0xD0M1M0/ExoMy)
 * [3D printed and driveable Curiosity/Perseverance inspired Rover](https://github.com/jakkra/Mars-Rover)
 
+  **ADDITIONAL FEATURES-**
+  
+**Advanced Sensors**
+
+*Ultrasonic Sensors:* 
+1]For obstacle detection and collision avoidance.
+
+2]IMU (Inertial Measurement Unit): For monitoring rover orientation, closed-loop control, or advanced navigation.
+
+3]LiDAR or Depth Camera: To create 3D maps of the environment or for better navigation on uneven terrain.
+
+4]Environmental Sensors: Measure temperature, humidity, and pressure for more realistic Mars-like conditions.
+
+*2. Navigation Enhancements*
+
+1]GPS Module: For outdoor navigation and logging movement paths.
+
+2]Encoders for Wheels: Improve accuracy in tracking distance traveled and enabling precise movements.
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=nasa-jpl/open-source-rover&type=Date)](https://star-history.com/#nasa-jpl/open-source-rover&Date)
